@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperTest", "DapperTest.csproj", "{90A9A3CA-E9A4-4045-8820-FF71594427B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{A0318E30-B4F8-4C0D-AEA1-DD5019902F10}"
+	ProjectSection(SolutionItems) = preProject
+		TablesAndStored.sql = TablesAndStored.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A9A3CA-E9A4-4045-8820-FF71594427B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A9A3CA-E9A4-4045-8820-FF71594427B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A9A3CA-E9A4-4045-8820-FF71594427B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A9A3CA-E9A4-4045-8820-FF71594427B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057B5690-4A9E-47B4-AC56-DAC67CB4D00C}
+	EndGlobalSection
+EndGlobal
